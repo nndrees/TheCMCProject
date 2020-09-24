@@ -1,0 +1,3 @@
+# does not commint .directory files 
+*.directory
+*.class
